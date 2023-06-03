@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">👨‍💻 I've programmed 1 discord bots and 4 Websites<br>🎯 Goal: Learn more languages</p>
+<p align="center">👨‍💻 I've programmed 1 discord bots ,17 Websites ,25 apps<br>🎯 Goal: Learn more languages</p>
 
 ###
 
