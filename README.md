@@ -27,11 +27,6 @@
 
 ###
 
-<h2 align="center">Website</h2>
-<p align="center><a href="https://theavian.github.io/" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/element_our/png/20181130/web-search-vector-icon-png_253149.jpg" alt="Website" width="40" height="40"/> </a> </p>
-
-###
-
 <h2 align="center">I have experience with...</h2>
 
 ###
