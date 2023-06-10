@@ -28,7 +28,7 @@
 ###
 
 <h2 align="center">Website</h2>
-[https://png.pngitem.com/pimgs/s/9-97468_website-ico-transparent-background-website-icon-hd-png.png](theavian.github.io)
+<a href="https://theavian.github.io/" target="_blank" rel="noreferrer" align="center"> <img src="https://png.pngitem.com/pimgs/s/9-97468_website-ico-transparent-background-website-icon-hd-png.png" alt="Website" width="40" height="40"/> </a>
 
 ###
 
