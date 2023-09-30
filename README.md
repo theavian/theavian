@@ -8,10 +8,10 @@
 
 ###
 
-<p align="center">- 🔭 I’m currently working on ...</p>
-<p align="center">- 🌱 I’m currently learning shell</p>
-<p align="center">- 👯 I’m looking to collaborate on hewol</p>
-<p align="center">- 🤔 I’m looking for help with ...</p>
+<p align="center">- 🔭 I’m currently working on image editors</p>
+<p align="center">- 🌱 I’m currently learning python</p>
+<p align="center">- 👯 I’m looking to collaborate on visual studio code</p>
+<p align="center">- 🤔 I’m looking for help with nothing</p>
 <p align="center">- 💬 Ask me about any queries</p>
 <p align="center">- 📫 How to reach me: Use discord AviCraft#1232</p>
 <p align="center">- 😄 Pronouns: he/him </p>
