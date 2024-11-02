@@ -8,12 +8,12 @@
 
 ###
 
-<p align="center">- 🔭 I’m currently working on image editors</p>
-<p align="center">- 🌱 I’m currently learning python</p>
-<p align="center">- 👯 I’m looking to collaborate on visual studio code</p>
-<p align="center">- 🤔 I’m looking for help with nothing</p>
+<p align="center">- 🔭 I’m currently working on nothing</p>
+<p align="center">- 🌱 I’m currently learning linux</p>
+<p align="center">- 👯 I’m looking to collaborate on github</p>
+<p align="center">- 🤔 I’m looking for help with web development</p>
 <p align="center">- 💬 Ask me about any queries</p>
-<p align="center">- 📫 How to reach me: Use discord AviCraft#1232</p>
+<p align="center">- 📫 How to reach me: Use discord avian100</p>
 <p align="center">- 😄 Pronouns: he/him </p>
 <p align="center">- ⚡ Fun fact: There are around 700 separate programming languages</p>
 
