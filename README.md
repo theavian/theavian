@@ -8,11 +8,11 @@
 
 ###
 
-<p align="center">- 🔭 I’m currently working on...</p>
-<p align="center">- 🌱 I’m currently learning sql</p>
+<p align="center">- 🔭 I’m currently working on ...</p>
+<p align="center">- 🌱 I’m currently learning java</p>
 <p align="center">- 👯 I’m looking to collaborate on github</p>
-<p align="center">- 🤔 I’m looking for help with SQL</p>
-<p align="center">- 💬 Ask me about any queries</p>
+<p align="center">- 🤔 I’m looking for help with Modding</p>
+<p align="center">- 💬 Ask me about any queries of HTML5</p>
 <p align="center">- 📫 How to reach me: Use discord avian100</p>
 <p align="center">- 😄 Pronouns: he/him </p>
 <p align="center">- ⚡ Fun fact: There are around 700 separate programming languages</p>
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">👨‍💻 I've programmed 1 discord bots ,18 Websites ,25 apps<br>🎯 Goal: Complete 25 Websites</p>
+<p align="center">👨‍💻 I've programmed 1 discord bots ,19 Websites ,25 apps<br>🎯 Goal: Complete 25 Websites</p>
 
 ###
 
