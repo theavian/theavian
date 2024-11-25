@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m currently working on ...</p>
+<p align="center">- 🔭 Currently doing astrophotography </p>
 <p align="center">- 🌱 I’m currently learning java</p>
 <p align="center">- 👯 I’m looking to collaborate on github</p>
 <p align="center">- 🤔 I’m looking for help with Modding</p>
